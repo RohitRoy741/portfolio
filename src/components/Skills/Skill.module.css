@@ -1,0 +1,18 @@
+.skill-article {
+  height: 250px;
+  width: 250px;
+  margin: 20px 25px;
+  background-color: #141d28;
+  color: #fff;
+  padding: 10px 15px;
+}
+
+.horizontal-bar {
+  width: 25px;
+  height: 3px;
+  background-color: #00468b;
+}
+
+.skill-logo-container {
+  margin-top: -25px;
+}

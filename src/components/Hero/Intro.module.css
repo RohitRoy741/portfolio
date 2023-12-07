@@ -1,0 +1,32 @@
+.intro-div {
+  width: 50%;
+  height: 100%;
+}
+
+.name {
+  font-size: 48px;
+  margin: 10px 0px;
+  font-weight: 500;
+}
+
+.title {
+  font-size: 20px;
+  margin: 0px 0px 10px 0px;
+  font-weight: 400;
+  padding: 10px;
+  width: fit-content;
+  background: #00468b; 
+}
+
+.greeting {
+  font-size: 18px;
+  margin: 0px 0px;
+  font-weight: 100;
+}
+
+.description {
+  font-size: 18px;
+  margin: 0px 0px;
+  font-weight: 100;
+  line-height: 1.7rem;
+}
