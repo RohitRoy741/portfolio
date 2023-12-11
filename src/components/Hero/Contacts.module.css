@@ -23,3 +23,18 @@ img {
   background-color: #00468b;
   border: 1px solid #00468b;
 }
+
+@media screen and (max-width: 800px) {
+  .contacts-div {
+    margin-top: 25px;
+    justify-content: center;
+  }
+  img {
+    margin-right: 10px;
+    height: 30px;
+  }
+  .contact-btn {
+    font-size: 14px;
+    padding: 6px 15px;
+  }
+}

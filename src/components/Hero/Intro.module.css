@@ -15,7 +15,7 @@
   font-weight: 400;
   padding: 10px;
   width: fit-content;
-  background: #00468b; 
+  background: #00468b;
 }
 
 .greeting {
@@ -29,4 +29,23 @@
   margin: 0px 0px;
   font-weight: 100;
   line-height: 1.7rem;
+}
+
+@media screen and (max-width: 800px) {
+  .intro-div {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+  }
+  .name {
+    font-size: 36px;
+  }
+  .title {
+    padding: 5px;
+    font-size: 16px;
+    margin: 0 auto;
+  }
+  .description {
+    display: none;
+  }
 }

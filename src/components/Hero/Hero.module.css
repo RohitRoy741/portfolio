@@ -6,4 +6,12 @@
   padding: 0 110px;
   background-color: #40586d;
   color: #fff;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 800px) {
+  .hero-section {
+    padding: 0 0 0 0;
+    flex-direction: column;
+  }
 }

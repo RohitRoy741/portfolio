@@ -1,7 +1,7 @@
 import "./App.css";
 
 import Hero from "./components/Hero/Hero";
-import TopSkills from "./components/Skills/TopSkills";
+import TopSkills from "./components/TopSkills/TopSkills";
 
 function App() {
   return (

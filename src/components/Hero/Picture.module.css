@@ -1,0 +1,13 @@
+@media screen and (max-width: 800px) {
+  .profile-div {
+    overflow: hidden;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    background-color: #839db4;
+    margin: 20px auto;
+  }
+  .profile-pic {
+    height: 100%;
+  }
+}
